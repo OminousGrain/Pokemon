@@ -1,0 +1,25 @@
+{
+  "name": "core-pokemon-battler",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "inquirer": "^6.1.0",
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha spec/*Test.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Borgus-Sama/CORE-pokemon-battler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Borgus-Sama/CORE-pokemon-battler/issues"
+  },
+  "homepage": "https://github.com/Borgus-Sama/CORE-pokemon-battler#readme"
+}
